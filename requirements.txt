@@ -207,7 +207,6 @@ namex==0.0.8
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
-neocities @ file:///Users/aaronbergman/python-neocities
 nest-asyncio==1.6.0
 networkx==3.3
 nltk==3.9.1
